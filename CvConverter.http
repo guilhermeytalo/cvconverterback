@@ -1,0 +1,6 @@
+@CvConverter_HostAddress = http://localhost:5029
+
+GET {{CvConverter_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
